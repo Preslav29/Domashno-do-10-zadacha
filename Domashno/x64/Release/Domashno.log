@@ -1,0 +1,13 @@
+﻿  zadacha 6.cpp
+  zadacha 7.cpp
+  zadacha3.cpp
+  zadacha4.cpp
+  zadacha5.cpp
+  zadacha8.cpp
+zadacha 6.obj : error LNK2005: main already defined in Domashno.obj
+zadacha 7.obj : error LNK2005: main already defined in Domashno.obj
+zadacha3.obj : error LNK2005: main already defined in Domashno.obj
+zadacha4.obj : error LNK2005: main already defined in Domashno.obj
+zadacha5.obj : error LNK2005: main already defined in Domashno.obj
+zadacha8.obj : error LNK2005: main already defined in Domashno.obj
+zadacha2.cpp : fatal error LNK1107: invalid or corrupt file: cannot read at 0x140
